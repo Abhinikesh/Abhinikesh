@@ -30,7 +30,7 @@
 ### 🚀 About Me
 - 🌱 Currently exploring **MERN Stack & Flutter**  
 - 💡 Interested in **IoT, AI, and Web Development**  
-- 📫 Reach me at **your_email_here**  
+- 📫 Reach me at **abhinikeshkumar1@gmail.com**  
 
 ---
 
