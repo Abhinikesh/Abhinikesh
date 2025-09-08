@@ -24,6 +24,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinikesh&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinikesh&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" />
 
+
 </p>
 
 ---
@@ -43,9 +44,10 @@
 ---
 
 ### 🎯 Projects
-- 🔐 **Fingerprint Lock System (Raspberry Pi Pico + AS608)**  
-- 🌱 **Smart Irrigation System (IoT + Sensors)**  
-- 📚 **PYQ Hub (Full-stack platform for Previous Year Questions)**  
+- **Real-Time Chat App** – built with JavaScript (Node.js + WebSocket). Enables instant messaging between users, handles real-time events, ensures low latency and clean UI.  
+- **USB-Based Gesture Mouse** – developed with Python and microcontroller (e.g., Raspberry Pi Pico). Captures hand gestures via USB to control mouse functions without hardware.  
+- **Jobs-News-Weather Scraper** – Python script scraping and presenting job listings, news headlines, and weather updates. Consolidates multiple sources into one CLI.  
+- **PYQ Hub** – full-stack platform to access and download past exam questions. Built with HTML, Python (backend), and JavaScript (frontend).  
 
 ---
 
