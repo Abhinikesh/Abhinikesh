@@ -25,9 +25,9 @@
 ---
 
 ### 🏆 Highlights & Achievements
-- 🥈 **CTF Hackathon 2nd Prize – ₹15,000**
+- 🥈 **3✕ CTF Winner**
 - 🌍 Created **multiple open-source full-stack projects**
-- 💡 Innovated **Fingerprint IoT Lock System** & **USB Gesture Mouse**
+- 💡 Innovated **Real-time Chat Application** & **USB Gesture Mouse**
 - 🚀 Constantly pushing boundaries with **AI + IoT integrations**
 
 <p align="center">
