@@ -14,8 +14,8 @@
 ---
 
 ### 🧠 About Me  
-- 🔭 Currently working on **AI tools, Flutter apps, and IoT automation**
-- 🌱 Learning **Next.js, TensorFlow, and Cloud Deployment**
+- 🔭 Currently working on **AI tools, Android Studio, and IoT automation**
+- 🌱 Learning **Next.js, TensorFlow, PHP, and Cloud Deployment**
 - 🧩 Love solving **complex problems** with clean & efficient code
 - 🧠 Interested in **Cybersecurity, IoT, and Full-Stack systems**
 - 💬 Ask me about **MERN, Python, Flutter, or embedded systems**
@@ -25,9 +25,9 @@
 ---
 
 ### 🏆 Highlights & Achievements
-- 🥈 **3✕ CTF Winner**
+- 🥈 **4✕ CTF Winner**
 - 🌍 Created **multiple open-source full-stack projects**
-- 💡 Innovated **Real-time Chat Application** & **USB Gesture Mouse**
+- 💡 Innovated **Real-time Chat Application** & **Campus naviagtion system**
 - 🚀 Constantly pushing boundaries with **AI + IoT integrations**
 
 <p align="center">
