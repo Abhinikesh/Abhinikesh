@@ -38,6 +38,15 @@
 
 ---
 
+## 🚀 What I'm Currently Building  
+
+- 🤖 Scaling **AI Campus Help Desk** with smarter NLP responses  
+- 📚 Upgrading **PYQ Hub** with AI-based search & tagging  
+- 🌐 Building **Full-Stack Apps using MERN + Next.js**  
+- 📱 Developing cross-platform apps using **Flutter**  
+
+---
+
 ## 💻 Featured Projects  
 
 | 🚀 Project | 💬 Description | 🧠 Tech |
@@ -62,6 +71,46 @@
 
 ---
 
+## 🧠 Skills Breakdown  
+
+### 💻 Development
+- Full Stack Web Development (MERN)  
+- Mobile App Development (Flutter)  
+- REST APIs & Backend Systems  
+
+### 🤖 AI & IoT
+- AI Chatbots (OpenAI API)  
+- IoT Systems (Raspberry Pi, Sensors)  
+- Automation & Smart Systems  
+
+### ⚙️ Tools & Platforms
+- Git, GitHub, Linux  
+- Firebase, MongoDB  
+- Postman, VS Code  
+
+---
+
+## 🏗️ System Design Thinking  
+
+- 🔹 Modular architecture (MVC pattern)  
+- 🔹 API-driven development  
+- 🔹 Real-time systems using WebSockets  
+- 🔹 Scalable backend design (Node.js)  
+- 🔹 Clean UI/UX with responsive design  
+
+---
+
+## 📅 My Developer Journey  
+
+- 🚀 Started with **C & C++ (Problem Solving)**  
+- 🌐 Learned **Web Development (HTML, CSS, JS)**  
+- ⚙️ Built **Full Stack Apps using MERN**  
+- 🤖 Explored **AI & OpenAI APIs**  
+- 📱 Started **Flutter App Development**  
+- 🔌 Built **IoT-based Smart Systems**  
+
+---
+
 ## 📊 GitHub Analytics  
 
 <p align="center">
@@ -75,10 +124,70 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Contribution Activity  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinikesh&theme=react-dark" />
+</p>
+
+---
+
+## 🐍 Contribution Snake  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Abhinikesh/Abhinikesh/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
+
+## 🧩 Coding Profiles  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</p>
+
+---
+
+## 🎯 Beyond Code  
+
+- 🎧 Love coding with lo-fi music  
+- 🏏 Play cricket & volleyball  
+- 🔍 Curious about new tech trends  
+- 💡 Always building something new  
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhinikesh-kumar-223a08336"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:abhinikeshkumar31@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Abhinikesh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+## ⭐ Let's Build Something Amazing  
+
+- ⭐ Star my repositories  
+- 🤝 Open for collaboration  
+- 💬 Let’s build impactful projects  
+
+---
+
+## 👀 Profile Views  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abhinikesh&label=Profile%20Views&color=fc00ff&style=for-the-badge" />
+</p>
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00dbde,100:fc00ff&height=120&section=footer" />
+</p>
+
+⭐️ **From Abhinikesh**
