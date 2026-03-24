@@ -75,9 +75,7 @@
 
 ---
 
-## 🐍 Contribution Snake (Working)
-
-👉 IMPORTANT: After adding this, you must enable GitHub Actions (I’ll explain below)
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Abhinikesh/Abhinikesh/output/github-contribution-grid-snake.svg" />
