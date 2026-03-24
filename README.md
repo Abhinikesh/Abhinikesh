@@ -19,7 +19,17 @@
 - ⚙️ Building projects using **MERN + Flutter + IoT**  
 - 🧩 Strong interest in **AI, Cybersecurity & Automation**  
 - 💬 Ask me about **JavaScript, Node.js, Python, IoT**  
-- 📫 Email: **abhinikeshkumar31@gmail.com**  
+- 📫 Email: **abhinikeshkumar31@gmail.com**
+
+---
+
+## 🚀 Quick Highlights  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Projects-10+-00DBDE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tech%20Stack-MERN%20%7C%20Flutter%20%7C%20IoT-fc00ff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Automation-00DBDE?style=for-the-badge"/>
+</p>
 
 ---
 
@@ -49,14 +59,88 @@
 
 ## 💻 Featured Projects  
 
-| 🚀 Project | 💬 Description | 🧠 Tech |
-|------------|----------------|--------|
-| 🤖 **AI Campus Help Desk** | AI chatbot for automating student queries (24/7 support system) | MERN, OpenAI API |
-| 📚 **PYQ Hub** | Platform for sharing previous year papers with upload & search | HTML, CSS, JS, Firebase |
-| 🗨️ **Real-Time Chat App** | Live chat system using WebSockets | Node.js, Socket.io |
-| 🖐️ **Gesture Mouse** | Control system using hand gestures | Python, IoT |
-| 📊 **IoT Dashboard** | Real-time device monitoring dashboard | Flutter, Node.js |
-| 🤖 **AI Task Assistant** | CLI-based AI productivity assistant | Python |
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI Campus Help Desk  
+AI chatbot for automating student queries (24/7 support system)
+
+🧠 **Tech:** MERN, OpenAI API  
+
+🔗  
+<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-00DBDE?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+<td width="50%">
+
+### 📚 PYQ Hub  
+Platform for sharing previous year papers with upload & search  
+
+🧠 **Tech:** HTML, CSS, JS, Firebase  
+
+🔗  
+<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-00DBDE?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="#"><img src="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🗨️ Real-Time Chat App  
+Live chat system using WebSockets  
+
+🧠 **Tech:** Node.js, Socket.io  
+
+🔗  
+<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-00DBDE?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+<td width="50%">
+
+### 🖐️ Gesture Mouse  
+Control system using hand gestures  
+
+🧠 **Tech:** Python, IoT  
+
+🔗  
+<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-00DBDE?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📊 IoT Dashboard  
+Real-time device monitoring dashboard  
+
+🧠 **Tech:** Flutter, Node.js  
+
+🔗  
+<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-00DBDE?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+<td width="50%">
+
+### 🤖 AI Task Assistant  
+CLI-based AI productivity assistant  
+
+🧠 **Tech:** Python  
+
+🔗  
+<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-00DBDE?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -70,7 +154,16 @@
 - 🎯 Reduces manual help desk workload  
 
 ---
+## 🧠 Skills  
 
+<p align="center">
+  <img src="https://img.shields.io/badge/MERN-Stack-00DBDE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Flutter-Mobile-fc00ff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI-OpenAI%20API-00DBDE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/IoT-RaspberryPi-fc00ff?style=for-the-badge"/>
+</p>
+
+---
 ## 🧠 Skills Breakdown  
 
 ### 💻 Development
