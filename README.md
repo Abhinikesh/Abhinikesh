@@ -5,113 +5,82 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=00DBDE&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;MERN+%26+Flutter+Learner;Python+%26+IoT+Enthusiast;Tech+Tinkerer+%7C+Open-Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=00DBDE&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+%26+IoT+Builder;MERN+%26+Flutter+Developer;Open-Source+Contributor;Problem+Solver+%7C+Tech+Enthusiast" />
 </p>
 
-<h1 align="center">Hey there 👋, I'm <span style="color:#00DBDE;">Abhinikesh</span></h1>
-<h3 align="center">🚀 Building cool stuff, breaking limits & learning every day</h3>
+<h1 align="center">Hi 👋, I'm <span style="color:#00DBDE;">Abhinikesh</span></h1>
+<h3 align="center">🚀 Building scalable AI systems, IoT solutions & modern web apps</h3>
 
 ---
 
-### 🧠 About Me  
-- 🔭 Currently working on **AI tools, Android Studio, and IoT automation**
-- 🌱 Learning **Next.js, TensorFlow, PHP, and Cloud Deployment**
-- 🧩 Love solving **complex problems** with clean & efficient code
-- 🧠 Interested in **Cybersecurity, IoT, and Full-Stack systems**
-- 💬 Ask me about **MERN, Python, Flutter, or embedded systems**
-- 📫 Reach me: **abhinikeshkumar31@gmail.com**
-- ⚡ Fun Fact: I debug faster when I play lo-fi beats 🎧
+## 🧠 About Me  
+- 🔭 Working on **AI-powered systems & full-stack applications**  
+- 🌱 Learning **Next.js, Cloud, TensorFlow & System Design**  
+- ⚙️ Building projects using **MERN + Flutter + IoT**  
+- 🧩 Strong interest in **AI, Cybersecurity & Automation**  
+- 💬 Ask me about **JavaScript, Node.js, Python, IoT**  
+- 📫 Email: **abhinikeshkumar31@gmail.com**  
 
 ---
 
-### 🏆 Highlights & Achievements
-- 🥈 **4✕ CTF Winner**
-- 🌍 Created **multiple open-source full-stack projects**
-- 💡 Innovated **Real-time Chat Application** & **Campus naviagtion system**
-- 🚀 Constantly pushing boundaries with **AI + IoT integrations**
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhinikesh&theme=radical&no-frame=true&margin-w=15&row=1" />
-</p>
+## 🏆 Achievements  
+- 🥈 **4× CTF Winner (Cybersecurity Competitions)**  
+- 🚀 Built **AI + IoT + Full Stack Projects**  
+- 🌍 Active **GitHub Contributor**  
+- 💡 Developed real-world systems solving campus problems  
 
 ---
 
-### ⚙️ Tech Stack & Tools
+## ⚙️ Tech Stack  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,flutter,python,c,cpp,git,github,linux,raspberrypi,arduino,vscode,postman" />
 </p>
 
 ---
 
-### 💻 Featured Projects
+## 💻 Featured Projects  
+
 | 🚀 Project | 💬 Description | 🧠 Tech |
 |------------|----------------|--------|
-| 🗨️ **Real-Time Chat App** | A fast & secure chat platform built with Socket.io | Node.js, JS, Express |
-| 🖐️ **USB Gesture Mouse** | Control your mouse with hand gestures via Pi Pico | Python, IoT |
-| 🌦️ **Weather-News-Job CLI** | Terminal app for daily productivity | Python |
-| 📚 **PYQ Hub** | Platform for sharing previous year exam papers | HTML, CSS, JS, Python |
-| 📊 **Smart IoT Dashboard** | Real-time IoT analytics dashboard | Flutter, Node.js, MongoDB |
-| 🤖 **AI Task Assistant** | Command-line AI assistant using OpenAI API | Python |
+| 🤖 **AI Campus Help Desk** | AI chatbot for automating student queries (24/7 support system) | MERN, OpenAI API |
+| 📚 **PYQ Hub** | Platform for sharing previous year papers with upload & search | HTML, CSS, JS, Firebase |
+| 🗨️ **Real-Time Chat App** | Live chat system using WebSockets | Node.js, Socket.io |
+| 🖐️ **Gesture Mouse** | Control system using hand gestures | Python, IoT |
+| 📊 **IoT Dashboard** | Real-time device monitoring dashboard | Flutter, Node.js |
+| 🤖 **AI Task Assistant** | CLI-based AI productivity assistant | Python |
 
 ---
 
-### 📊 GitHub Analytics  
+## 🚀 Highlight Project: AI Campus Help Desk  
+
+- 🧠 AI chatbot for student queries  
+- ⚡ Instant response system  
+- 🔐 Authentication (Login/Signup)  
+- 📊 Admin dashboard  
+- 🔁 Human fallback support  
+- 🎯 Reduces manual help desk workload  
+
+---
+
+## 📊 GitHub Analytics  
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhinikesh&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinikesh&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhinikesh&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinikesh&theme=radical"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinikesh&layout=compact&theme=radical&langs_count=10" />
-</p>
-
----
-
-### 🧠 Developer Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
-### 📰 Latest Updates  
-- 🌕 Upgrading **PYQ Hub** UI with dark mode & AI tagging  
-- 🤖 Experimenting with **AI-IoT integration** for smart homes  
-- 🧑‍💻 Building **Flutter-powered portfolio app**  
-- 🚀 Learning **Next.js + Cloudflare Workers**
-
----
-
-### 🌐 Connect with Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/abhinikesh-kumar-223a08336" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:abhinikeshkumar31@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Abhinikesh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinikesh&layout=compact&theme=radical"/>
 </p>
 
 ---
 
-### 🧩 Fun Zone 🎮  
-> 👇 Click to see what kind of developer you are!
+## 🐍 Contribution Snake (Working)
+
+👉 IMPORTANT: After adding this, you must enable GitHub Actions (I’ll explain below)
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhinikesh&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhinikesh&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhinikesh&theme=radical" />
+  <img src="https://raw.githubusercontent.com/Abhinikesh/Abhinikesh/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
-
-### 👀 Visitor Counter  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abhinikesh&label=Profile%20Views&color=fc00ff&style=for-the-badge" />
-</p>
-
----
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00dbde,100:fc00ff&height=120&section=footer" />
-</p>
-
-⭐️ **From [Abhinikesh](https://github.com/Abhinikesh)**  
