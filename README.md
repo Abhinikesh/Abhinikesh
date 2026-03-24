@@ -54,11 +54,6 @@
 | 🤖 **AI Task Assistant** | Command-line AI assistant using OpenAI API | Python |
 
 ---
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Abhinikesh/Abhinikesh/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
----
 
 ### 📊 GitHub Analytics  
 <p align="center">
