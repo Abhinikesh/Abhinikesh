@@ -9,14 +9,14 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm <span style="color:#00DBDE;">Abhinikesh</span></h1>
-<h3 align="center">🚀 Building scalable AI systems, IoT solutions & modern web apps</h3>
+<h3 align="center">🚀 Building scalable AI systems, android studio application & modern web apps</h3>
 
 ---
 
 ## 🧠 About Me  
 - 🔭 Working on **AI-powered systems & full-stack applications**  
 - 🌱 Learning **Next.js, Cloud, TensorFlow & System Design**  
-- ⚙️ Building projects using **MERN + Flutter + IoT**  
+- ⚙️ Building projects using **MERN + Kotlin + IoT**  
 - 🧩 Strong interest in **AI, Cybersecurity & Automation**  
 - 💬 Ask me about **JavaScript, Node.js, Python, IoT**  
 - 📫 Email: **abhinikeshkumar31@gmail.com**
@@ -51,9 +51,9 @@
 ## 🚀 What I'm Currently Building  
 
 - 🤖 Scaling **AI Campus Help Desk** with smarter NLP responses  
-- 📚 Upgrading **PYQ Hub** with AI-based search & tagging  
+- 📚 Upgrading **Local Service Marketplace** with AI-based search & tagging 
 - 🌐 Building **Full-Stack Apps using MERN + Next.js**  
-- 📱 Developing cross-platform apps using **Flutter**  
+- 📱 Developing cross-platform apps using **Kotlin**  
 
 ---
 
@@ -117,10 +117,10 @@ Control system using hand gestures
 <tr>
 <td width="50%">
 
-### 📊 IoT Dashboard  
-Real-time device monitoring dashboard  
+### 📊 Play Wise  
+Sports-Guide app with features like Sports tutorial,Tips,Live Score,Buy Ticket
 
-🧠 **Tech:** Flutter, Node.js  
+🧠 **Tech:** Android-Studio - Kotlin  
 
 🔗  
 <a href="#"><img src="https://img.shields.io/badge/Live%20Demo-00DBDE?style=for-the-badge&logo=vercel&logoColor=white"/></a>
@@ -129,7 +129,7 @@ Real-time device monitoring dashboard
 </td>
 <td width="50%">
 
-### 🤖 AI Task Assistant  
+### 🤖 AI Task Assistant           
 CLI-based AI productivity assistant  
 
 🧠 **Tech:** Python  
@@ -168,7 +168,7 @@ CLI-based AI productivity assistant
 
 ### 💻 Development
 - Full Stack Web Development (MERN)  
-- Mobile App Development (Flutter)  
+- Mobile App Development (Kotlin)  
 - REST APIs & Backend Systems  
 
 ### 🤖 AI & IoT
@@ -199,7 +199,7 @@ CLI-based AI productivity assistant
 - 🌐 Learned **Web Development (HTML, CSS, JS)**  
 - ⚙️ Built **Full Stack Apps using MERN**  
 - 🤖 Explored **AI & OpenAI APIs**  
-- 📱 Started **Flutter App Development**  
+- 📱 Started **Android Studio App Development**  
 - 🔌 Built **IoT-based Smart Systems**  
 
 ---
