@@ -81,9 +81,13 @@ Platform to see live AQI,Whether,Grid carbon intensity,Tips to prevent AQI etc.
 🧠 **Tech:** HTML, CSS, JS, APIs  
 
 🔗  
-<a href="#"><img src="https://abhinikesh.github.io/City_Carbon/&logo=vercel&logoColor=white"/></a>
-<a href="#"><img src="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://abhinikesh.github.io/City_Carbon/" target="_blank">
+  <img src="https://img.shields.io/badge/Live%20Demo-00DBDE?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
+<a href="https://github.com/abhinikesh/City_Carbon" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </td>
 </tr>
 
