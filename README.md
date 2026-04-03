@@ -75,10 +75,10 @@ AI chatbot for automating student queries (24/7 support system)
 </td>
 <td width="50%">
 
-### 📚 PYQ Hub  
-Platform for sharing previous year papers with upload & search  
+### 🌆 City-Carbon 
+Platform to see live AQI,Whether,Grid carbon intensity,Tips to prevent AQI etc. 
 
-🧠 **Tech:** HTML, CSS, JS, Firebase  
+🧠 **Tech:** HTML, CSS, JS, APIs  
 
 🔗  
 <a href="#"><img src="https://img.shields.io/badge/Live%20Demo-00DBDE?style=for-the-badge&logo=vercel&logoColor=white"/></a>
