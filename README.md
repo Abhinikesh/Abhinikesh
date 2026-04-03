@@ -43,7 +43,7 @@
 
 ## ⚙️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,flutter,python,c,cpp,git,github,linux,raspberrypi,arduino,vscode,postman,kotlin" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,flutter,python,c,cpp,git,github,linux,raspberrypi,arduino,vscode,postman,kotlin,docker,android-studio" />
 </p>
 
 ---
