@@ -13,13 +13,28 @@
 
 ---
 
-## 🧠 About Me  
-- 🔭 Working on **AI-powered systems & full-stack applications**  
-- 🌱 Learning **Next.js, Cloud, TensorFlow & System Design**  
-- ⚙️ Building projects using **MERN + Kotlin + IoT**  
-- 🧩 Strong interest in **AI, Cybersecurity & Automation**  
-- 💬 Ask me about **JavaScript, Node.js, Python, IoT**  
-- 📫 Email: **abhinikeshkumar31@gmail.com**
+## 🧠 About Me
+
+<table>
+<tr>
+<td width="65%">
+
+- 🛸 Working on **AI-powered systems & full-stack apps**
+- 🌱 Learning **Next.js, Cloud, TensorFlow & System Design**
+- ⚙️ Building with **MERN + Kotlin + IoT**
+- 🧩 Strong interest in **AI, Cybersecurity & Automation**
+- 💬 Ask me about **JavaScript, Node.js, Python, IoT**
+- 📧 Email: abhinikeshkumar31@gmail.com
+
+</td>
+<td width="45%" align="center">
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGt3dWE5cDQwMTdvOG03bzZlczliNXh4cWZ5MXh0OHdxcDh2eHVwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3jcgPn9fzfaXc1EHJC/giphy.gif" width="180" />
+<br><i>My reaction to every bug fixed 😂</i>
+
+</td>
+</tr>
+</table>
 
 ---
 
