@@ -173,53 +173,67 @@ CLI-based AI productivity assistant
 - 🎯 Reduces manual help desk workload  
 
 ---
-## 🧠 Skills  
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MERN-Stack-00DBDE?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Flutter-Mobile-fc00ff?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI-OpenAI%20API-00DBDE?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/IoT-RaspberryPi-fc00ff?style=for-the-badge"/>
-</p>
+## 🧠 Skills
+
+**💻 Full-Stack Development**
+![MERN](https://img.shields.io/badge/MERN_Stack-378ADD?style=flat-square)
+![REST APIs](https://img.shields.io/badge/REST_APIs-378ADD?style=flat-square)
+![React+Vite](https://img.shields.io/badge/React_+_Vite-378ADD?style=flat-square)
+![JWT Auth](https://img.shields.io/badge/JWT_&_Google_OAuth-378ADD?style=flat-square)
+
+**📱 Mobile Development**
+![Flutter](https://img.shields.io/badge/Flutter-1D9E75?style=flat-square)
+![Kotlin](https://img.shields.io/badge/Kotlin-1D9E75?style=flat-square)
+![Android](https://img.shields.io/badge/Android_Studio-1D9E75?style=flat-square)
+
+**🤖 AI & Automation**
+![OpenAI](https://img.shields.io/badge/OpenAI_API-7F77DD?style=flat-square)
+![Chatbots](https://img.shields.io/badge/AI_Chatbots-7F77DD?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP_Integration-7F77DD?style=flat-square)
+
+**🔌 IoT & Hardware**
+![RPi](https://img.shields.io/badge/Raspberry_Pi-EF9F27?style=flat-square)
+![Arduino](https://img.shields.io/badge/Arduino-EF9F27?style=flat-square)
+![IoT](https://img.shields.io/badge/IoT_Sensors-EF9F27?style=flat-square)
+
+**🔒 Cybersecurity — 4x CTF Winner**
+![CTF](https://img.shields.io/badge/4x_CTF_Winner-E24B4A?style=flat-square)
+![WebExploit](https://img.shields.io/badge/Web_Exploitation-E24B4A?style=flat-square)
+![RevEng](https://img.shields.io/badge/Reverse_Engineering-E24B4A?style=flat-square)
+![Crypto](https://img.shields.io/badge/Cryptography-E24B4A?style=flat-square)
+![OSINT](https://img.shields.io/badge/OSINT-E24B4A?style=flat-square)
+
+**⚙️ Tools & Platforms**
+![Git](https://img.shields.io/badge/Git_&_GitHub-888780?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-888780?style=flat-square)
+![Vercel](https://img.shields.io/badge/Vercel_&_Render-888780?style=flat-square)
+![Postman](https://img.shields.io/badge/Postman-888780?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-888780?style=flat-square)
 
 ---
-## 🧠 Skills Breakdown  
 
-### 💻 Development
-- Full Stack Web Development (MERN)  
-- Mobile App Development (Kotlin)  
-- REST APIs & Backend Systems  
+## 🏗️ System Design Thinking
 
-### 🤖 AI & IoT
-- AI Chatbots (OpenAI API)  
-- IoT Systems (Raspberry Pi, Sensors)  
-- Automation & Smart Systems  
-
-### ⚙️ Tools & Platforms
-- Git, GitHub, Linux  
-- Firebase, MongoDB  
-- Postman, VS Code  
+| | |
+|---|---|
+| 🧩 **Modular Architecture** — MVC pattern across all projects | 🔌 **API-Driven Development** — RESTful APIs with clean contracts |
+| ⚡ **Real-Time Systems** — WebSockets for live data | 📈 **Scalable Backend** — Node.js + Express architecture |
+| 🎨 **Clean UI/UX** — Responsive & accessible design | 🔒 **Secure Auth** — JWT + OAuth + OTP flows |
 
 ---
 
-## 🏗️ System Design Thinking  
+## 📅 Developer Journey
 
-- 🔹 Modular architecture (MVC pattern)  
-- 🔹 API-driven development  
-- 🔹 Real-time systems using WebSockets  
-- 🔹 Scalable backend design (Node.js)  
-- 🔹 Clean UI/UX with responsive design  
-
----
-
-## 📅 My Developer Journey  
-
-- 🚀 Started with **C & C++ (Problem Solving)**  
-- 🌐 Learned **Web Development (HTML, CSS, JS)**  
-- ⚙️ Built **Full Stack Apps using MERN**  
-- 🤖 Explored **AI & OpenAI APIs**  
-- 📱 Started **Android Studio App Development**  
-- 🔌 Built **IoT-based Smart Systems**  
+| Stage | What I Did |
+|---|---|
+| ⬜ **C & C++** | Problem solving, DSA fundamentals |
+| 🔵 **Web Dev** | HTML, CSS, JavaScript — built real pages |
+| 🟢 **MERN Stack** | Shipped production full-stack apps |
+| 🟣 **AI & OpenAI** | Chatbots & NLP-powered systems |
+| 🟠 **Mobile Dev** | Kotlin, Flutter, Android Studio |
+| 🔴 **IoT Systems** | Raspberry Pi, Arduino, automation |
+| 🟩 **Cybersecurity** | 4x CTF Winner — exploitation & OSINT |
 
 ---
 
@@ -262,12 +276,27 @@ CLI-based AI productivity assistant
 
 ---
 
-## 🎯 Beyond Code  
+## 🎯 Beyond Code
 
-- 🎧 Love coding with lo-fi music  
-- 🏏 Play cricket & volleyball  
-- 🔍 Curious about new tech trends  
-- 💡 Always building something new  
+> *When I'm not shipping code, you'll find me...*
+
+🎧 Coding to **lo-fi beats** at midnight
+
+⚽ Playing **football & volleyball** with friends
+
+🏊 **Swimming** to clear my head
+
+🏋️ Hitting the **gym** — consistency is a habit too
+
+🚗 Obsessing over **supercars** — dream garage in progress
+
+✈️ **Travelling** and exploring new places
+
+📺 Binge-watching **web series** — Hindi, English, doesn't matter
+
+💡 Always **building something new** — can't stay idle
+
+🔍 Staying curious about **what's next in tech**
 
 ---
 
