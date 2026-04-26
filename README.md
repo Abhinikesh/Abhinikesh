@@ -43,7 +43,22 @@
 
 ## ⚙️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,flutter,python,c,cpp,git,github,linux,raspberrypi,arduino,vscode,postman,kotlin,docker,androidstudio" />
+
+<!-- 🌐 Frontend -->
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind" />
+
+<!-- ⚙️ Backend -->
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python" />
+
+<!-- ☁️ Cloud & DevOps -->
+<img src="https://skillicons.dev/icons?i=vercel,docker,postman,git,github" />
+
+<!-- 📱 Mobile & Systems -->
+<img src="https://skillicons.dev/icons?i=flutter,kotlin,androidstudio,c,cpp" />
+
+<!-- 🛠️ Tools & Hardware -->
+<img src="https://skillicons.dev/icons?i=vscode,linux,raspberrypi,arduino" />
+
 </p>
 
 ---
