@@ -89,16 +89,43 @@
 ---
 
 ## 💻 Featured Projects  
-
 <table>
 <tr>
 <td width="50%">
 
+### 🔥 Streak-o  
+Habit tracking app with streaks, leaderboard & friend activity feed  
+🧠 **Tech:** React, Vite, Node.js, Vercel  
+🔗  
+<a href="https://streak-o.vercel.app/login" target="_blank">
+  <img src="https://img.shields.io/badge/Live%20Demo-00DBDE?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://github.com/Abhinikesh/Streak-o" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+<td width="50%">
+
+### 📊 Play Wise  
+Sports-Guide app with features like Sports tutorial, Tips, Live Score, Buy Ticket  
+🧠 **Tech:** Android Studio - Kotlin  
+🔗  
+<a href="https://github.com/Abhinikesh/PlayWise/releases/download/v1.0/app-release.apk" target="_blank">
+  <img src="https://img.shields.io/badge/Download%20APK-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+</a>
+<a href="https://github.com/Abhinikesh/PlayWise" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 ### 🤖 AI Campus Help Desk  
-AI chatbot for automating student queries (24/7 support system)
-
+AI chatbot for automating student queries (24/7 support system)  
 🧠 **Tech:** MERN, OpenAI API  
-
 🔗  
 <a href="#"><img src="https://img.shields.io/badge/Live%20Demo-00DBDE?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -106,11 +133,9 @@ AI chatbot for automating student queries (24/7 support system)
 </td>
 <td width="50%">
 
-### 🌆 City-Carbon 
-Platform to see live AQI,Whether,Grid carbon intensity,Tips to prevent AQI etc. 
-
+### 🌆 City-Carbon  
+Platform to see live AQI, Weather, Grid carbon intensity, Tips to prevent AQI etc.  
 🧠 **Tech:** HTML, CSS, JS, APIs  
-
 🔗  
 <a href="https://abhinikesh.github.io/City_Carbon/" target="_blank">
   <img src="https://img.shields.io/badge/Live%20Demo-00DBDE?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -118,17 +143,15 @@ Platform to see live AQI,Whether,Grid carbon intensity,Tips to prevent AQI etc.
 <a href="https://github.com/abhinikesh/City_Carbon" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 </td>
 </tr>
-
 <tr>
 <td width="50%">
 
 ### 🗨️ Real-Time Chat App  
 Live chat system using WebSockets  
-
 🧠 **Tech:** Node.js, Socket.io  
-
 🔗  
 <a href="#"><img src="https://img.shields.io/badge/Live%20Demo-00DBDE?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -138,36 +161,7 @@ Live chat system using WebSockets
 
 ### 🖐️ Gesture Mouse  
 Control system using hand gestures  
-
 🧠 **Tech:** Python, IoT  
-
-🔗  
-<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-00DBDE?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📊 Play Wise  
-Sports-Guide app with features like Sports tutorial,Tips,Live Score,Buy Ticket
-
-🧠 **Tech:** Android-Studio - Kotlin  
-
-🔗  
-<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-00DBDE?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-</td>
-<td width="50%">
-
-### 🤖 AI Task Assistant           
-CLI-based AI productivity assistant  
-
-🧠 **Tech:** Python  
-
 🔗  
 <a href="#"><img src="https://img.shields.io/badge/Live%20Demo-00DBDE?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -179,10 +173,20 @@ CLI-based AI productivity assistant
 ---
 
 ## 🚀 Highlight Project: AI Campus Help Desk  
-
 - 🧠 AI chatbot for student queries  
 - ⚡ Instant response system  
 - 🔐 Authentication (Login/Signup)  
+- 📊 Admin dashboard  
+- 🔁 Human fallback support  
+- 🎯 Reduces manual help desk workload  
+
+---
+
+## 🚀 Highlight Project: AI Campus Help Desk  
+
+- 🧠 AI chatbot for student queries  
+- ⚡ Instant response system  
+- 🔐 Authentication (Login/Signaup)  
 - 📊 Admin dashboard  
 - 🔁 Human fallback support  
 - 🎯 Reduces manual help desk workload  
