@@ -172,24 +172,28 @@ Control system using hand gestures
 
 ---
 
-## 🚀 Highlight Project: AI Campus Help Desk  
-- 🧠 AI chatbot for student queries  
-- ⚡ Instant response system  
-- 🔐 Authentication (Login/Signup)  
-- 📊 Admin dashboard  
-- 🔁 Human fallback support  
-- 🎯 Reduces manual help desk workload  
+## 🚀 Highlight Project: StreakBoard — Habit Tracker  
 
----
+<a href="https://streak-o.vercel.app/login" target="_blank">
+  <img src="https://img.shields.io/badge/Live%20Demo-streak--o.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://github.com/Abhinikesh/Streak-o" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Streak--o-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-## 🚀 Highlight Project: AI Campus Help Desk  
+> 🔥 A full-stack MERN habit tracking web app — **live in production with real users**
 
-- 🧠 AI chatbot for student queries  
-- ⚡ Instant response system  
-- 🔐 Authentication (Login/Signaup)  
-- 📊 Admin dashboard  
-- 🔁 Human fallback support  
-- 🎯 Reduces manual help desk workload  
+- 🧠 **Retroactive habit tracking** — tick ✓ or cross ✗ daily habits with streaks & heatmaps  
+- 📅 **Calendar & Stats** — monthly grid, GitHub-style heatmap, completion rate, best streak  
+- 🏆 **Leaderboard** — compete with friends ranked by streak, rate & total done  
+- 👥 **Friends & Public Profiles** — share your profile via unique share code  
+- 🔔 **Push Notifications** — VAPID-based daily reminders via Service Worker  
+- 📤 **Habit Sharing** — export habit calendar as PNG → share on Instagram/WhatsApp  
+- 🔐 **Auth** — Google OAuth + Email OTP + JWT (7-day expiry)  
+- 📓 **Journal** — attach notes to habit logs for daily reflection  
+- ☁️ **Cloud** — MongoDB Atlas + Cloudinary (avatars) + Vercel + Render  
+
+**Tech Stack:** `React + Vite` `Node.js + Express` `MongoDB Atlas` `JWT + Google OAuth` `Tailwind CSS` `Framer Motion`
 
 ---
 
