@@ -1,14 +1,8 @@
-<!-- Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc00ff,100:00dbde&height=200&section=header&text=Abhinikesh%20👨‍💻&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40" />
-</p>
-
+<h1 align="center">Hi 👋, I'm <span style="color:#00DBDE;">Abhinikesh</span></h1>
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=00DBDE&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+%26+IoT+Builder;MERN+%26+Flutter+Developer;Open-Source+Contributor;Problem+Solver+%7C+Tech+Enthusiast" />
 </p>
-
-<h1 align="center">Hi 👋, I'm <span style="color:#00DBDE;">Abhinikesh</span></h1>
 <h3 align="center">🚀 Building scalable AI systems, android studio application & modern web apps</h3>
 
 ---
@@ -345,13 +339,6 @@ Control system using hand gestures
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abhinikesh&label=Profile%20Views&color=fc00ff&style=for-the-badge" />
-</p>
-
----
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00dbde,100:fc00ff&height=120&section=footer" />
 </p>
 
 ⭐️ **From Abhinikesh**
