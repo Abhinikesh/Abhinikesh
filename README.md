@@ -147,41 +147,16 @@ Turn any photo into an AI-narrated 360° story, with a built-in demo video maker
 </td>
 <td width="50%">
 
-### 🖐️ Gesture Mouse  
-Control system using hand gestures  
-🧠 **Tech:** Python, IoT  
+### 🛠️ Workzarr
+Marketplace connecting customers with trusted, verified local service providers.  
+🧠 **Tech:** React, Node.js, MongoDB  
 🔗  
-<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-00DBDE?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://workzarr-bj4p.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-00DBDE?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/Abhinikesh/Workzarr" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
 </table>
-
----
-
-## 🚀 Highlight Project: StreakBoard — Habit Tracker  
-
-<a href="https://streak-o.vercel.app/login" target="_blank">
-  <img src="https://img.shields.io/badge/Live%20Demo-streak--o.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://github.com/Abhinikesh/Streak-o" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Streak--o-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-> 🔥 A full-stack MERN habit tracking web app — **live in production with real users**
-
-- 🧠 **Retroactive habit tracking** — tick ✓ or cross ✗ daily habits with streaks & heatmaps  
-- 📅 **Calendar & Stats** — monthly grid, GitHub-style heatmap, completion rate, best streak  
-- 🏆 **Leaderboard** — compete with friends ranked by streak, rate & total done  
-- 👥 **Friends & Public Profiles** — share your profile via unique share code  
-- 🔔 **Push Notifications** — VAPID-based daily reminders via Service Worker  
-- 📤 **Habit Sharing** — export habit calendar as PNG → share on Instagram/WhatsApp  
-- 🔐 **Auth** — Google OAuth + Email OTP + JWT (7-day expiry)  
-- 📓 **Journal** — attach notes to habit logs for daily reflection  
-- ☁️ **Cloud** — MongoDB Atlas + Cloudinary (avatars) + Vercel + Render  
-
-**Tech Stack:** `React + Vite` `Node.js + Express` `MongoDB Atlas` `JWT + Google OAuth` `Tailwind CSS` `Framer Motion`
 
 ---
 
