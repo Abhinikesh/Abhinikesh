@@ -127,17 +127,12 @@ AI chatbot for automating student queries (24/7 support system)
 </td>
 <td width="50%">
 
-### 🌆 City-Carbon  
-Platform to see live AQI, Weather, Grid carbon intensity, Tips to prevent AQI etc.  
-🧠 **Tech:** HTML, CSS, JS, APIs  
+### 🌍 Carbon Scanner  
+AI-powered carbon footprint tracker by scaning products.  
+🧠 **Tech:** MERN, Google Vision API  
 🔗  
-<a href="https://abhinikesh.github.io/City_Carbon/" target="_blank">
-  <img src="https://img.shields.io/badge/Live%20Demo-00DBDE?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://github.com/abhinikesh/City_Carbon" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+<a href="https://carbonscanner.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-00DBDE?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/Abhinikesh/Carbon_Scanner_of-any-product" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </td>
 </tr>
 <tr>
