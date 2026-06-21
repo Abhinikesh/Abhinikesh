@@ -138,7 +138,7 @@ AI-powered carbon footprint tracker by scaning products.
 <tr>
 <td width="50%">
 
-### 🎥 360 Video
+### 🎥 Horizon
 Turn any photo into an AI-narrated 360° story, with a built-in demo video maker.  
 🧠 **Tech:** React + Vite, Python, Tailwind CSS  
 🔗  
