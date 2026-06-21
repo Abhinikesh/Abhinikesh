@@ -138,13 +138,12 @@ AI-powered carbon footprint tracker by scaning products.
 <tr>
 <td width="50%">
 
-### 🗨️ Real-Time Chat App  
-Live chat system using WebSockets  
-🧠 **Tech:** Node.js, Socket.io  
+### 🎥 360 Video
+Turn any photo into an AI-narrated 360° story, with a built-in demo video maker.  
+🧠 **Tech:** React + Vite, Python, Tailwind CSS  
 🔗  
-<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-00DBDE?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-00DBDE?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/Abhinikesh/360_Video" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </td>
 <td width="50%">
 
