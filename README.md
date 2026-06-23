@@ -190,30 +190,6 @@ Marketplace connecting customers with trusted, verified local service providers.
 
 ---
 
-## 🏗️ System Design Thinking
-
-| | |
-|---|---|
-| 🧩 **Modular Architecture** — MVC pattern across all projects | 🔌 **API-Driven Development** — RESTful APIs with clean contracts |
-| ⚡ **Real-Time Systems** — WebSockets for live data | 📈 **Scalable Backend** — Node.js + Express architecture |
-| 🎨 **Clean UI/UX** — Responsive & accessible design | 🔒 **Secure Auth** — JWT + OAuth + OTP flows |
-
----
-
-## 📅 Developer Journey
-
-| Stage | What I Did |
-|---|---|
-| ⬜ **C & C++** | Problem solving, DSA fundamentals |
-| 🔵 **Web Dev** | HTML, CSS, JavaScript — built real pages |
-| 🟢 **MERN Stack** | Shipped production full-stack apps |
-| 🟣 **AI & OpenAI** | Chatbots & NLP-powered systems |
-| 🟠 **Mobile Dev** | Kotlin, Flutter, Android Studio |
-| 🔴 **IoT Systems** | Raspberry Pi, Arduino, automation |
-| 🟩 **Cybersecurity** | 4x CTF Winner — exploitation & OSINT |
-
----
-
 ## 📊 GitHub Analytics  
 
 <p align="center">
