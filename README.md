@@ -266,8 +266,6 @@ Marketplace connecting customers with trusted, verified local service providers.
 
 > *When I'm not shipping code, you'll find me...*
 
-🎧 Coding to **lo-fi beats** at midnight
-
 ⚽ Playing **football & volleyball** with friends
 
 🏊 **Swimming** to clear my head
@@ -275,8 +273,6 @@ Marketplace connecting customers with trusted, verified local service providers.
 🏋️ Hitting the **gym** — consistency is a habit too
 
 🚗 Obsessing over **supercars** — dream garage in progress
-
-✈️ **Travelling** and exploring new places
 
 📺 Binge-watching **web series** — Hindi, English, doesn't matter
 
