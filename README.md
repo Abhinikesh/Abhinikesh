@@ -73,15 +73,6 @@
 
 ---
 
-## 🚀 What I'm Currently Building  
-
-- 🤖 Scaling **AI Campus Help Desk** with smarter NLP responses  
-- 📚 Upgrading **Local Service Marketplace** with AI-based search & tagging 
-- 🌐 Building **Full-Stack Apps using MERN + Next.js**  
-- 📱 Developing cross-platform apps using **Kotlin**  
-
----
-
 ## 💻 Featured Projects  
 <table>
 <tr>
