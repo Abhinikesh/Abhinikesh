@@ -227,26 +227,6 @@ Marketplace connecting customers with trusted, verified local service providers.
 
 ---
 
-## 🎯 Beyond Code
-
-> *When I'm not shipping code, you'll find me...*
-
-⚽ Playing **football & volleyball** with friends
-
-🏊 **Swimming** to clear my head
-
-🏋️ Hitting the **gym** — consistency is a habit too
-
-🚗 Obsessing over **supercars** — dream garage in progress
-
-📺 Binge-watching **web series** — Hindi, English, doesn't matter
-
-💡 Always **building something new** — can't stay idle
-
-🔍 Staying curious about **what's next in tech**
-
----
-
 ## 🌐 Connect With Me  
 
 <p align="center">
