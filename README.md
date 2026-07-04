@@ -214,7 +214,7 @@ Marketplace connecting customers with trusted, verified local service providers.
 ## 🐍 Contribution Snake  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abhinikesh/Abhinikesh/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Abhinikesh/Abhinikesh/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
