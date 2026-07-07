@@ -108,13 +108,12 @@ Sports-Guide app with features like Sports tutorial, Tips, Live Score, Buy Ticke
 <tr>
 <td width="50%">
 
-### 🤖 AI Campus Help Desk  
-AI chatbot for automating student queries (24/7 support system)  
-🧠 **Tech:** MERN, OpenAI API  
+### 🤝Presence
+Real-time connection app for friends — synced presence, status, music/video watching, and mini-games to stay close across distance  
+🧠 **Tech:** MERN, Socket.IO, Google OAuth, Cloudinary  
 🔗  
-<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-00DBDE?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
+<a href="https://presence-plum.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-00DBDE?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/Abhinikesh/Presence"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </td>
 <td width="50%">
 
