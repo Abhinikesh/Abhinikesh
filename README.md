@@ -92,16 +92,12 @@ Habit tracking app with streaks, leaderboard & friend activity feed
 </td>
 <td width="50%">
 
-### 📊 Play Wise  
-Sports-Guide app with features like Sports tutorial, Tips, Live Score, Buy Ticket  
-🧠 **Tech:** Android Studio - Kotlin  
-🔗  
-<a href="https://github.com/Abhinikesh/PlayWise/releases/download/v1.0/app-release.apk" target="_blank">
-  <img src="https://img.shields.io/badge/Download%20APK-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-</a>
-<a href="https://github.com/Abhinikesh/PlayWise" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+### 🏋️ AI Fitness Coach
+Real-time AI workout companion using pose detection and a custom-trained ML model to count reps and track form.  
+🧠 **Tech:** MERN Stack · Python (FastAPI) · Pose Detection · Custom ML Model  
+🔗
+<a href="https://argus-livid-one.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-00DBDE?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/Abhinikesh/AI-Fitness-Coach" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
@@ -128,21 +124,25 @@ AI-powered carbon footprint tracker by scaning products.
 <tr>
 <td width="50%">
 
-### 🎥 Horizon
-Turn any photo into an AI-narrated 360° story, with a built-in demo video maker.  
-🧠 **Tech:** React + Vite, Python, Tailwind CSS  
+### ✌🏻Vector
+Real-time, multi-file code syncing tool for instant collaboration — no sign-up needed, just share a 6-digit room code.  
+🧠 **Tech:** MERN Stack · Socket.IO · WebSockets  
 🔗  
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-00DBDE?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://github.com/Abhinikesh/360_Video" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://vector-delta-bice.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-00DBDE?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/Abhinikesh/Vector" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </td>
 <td width="50%">
 
-### 🛠️ Workzarr
-Marketplace connecting customers with trusted, verified local service providers.  
-🧠 **Tech:** React, Node.js, MongoDB  
+### 📊 Play Wise  
+Sports-Guide app with features like Sports tutorial, Tips, Live Score, Buy Ticket  
+🧠 **Tech:** Android Studio - Kotlin  
 🔗  
-<a href="https://workzarr-bj4p.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-00DBDE?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://github.com/Abhinikesh/Workzarr" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Abhinikesh/PlayWise/releases/download/v1.0/app-release.apk" target="_blank">
+  <img src="https://img.shields.io/badge/Download%20APK-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+</a>
+<a href="https://github.com/Abhinikesh/PlayWise" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 </tr>
