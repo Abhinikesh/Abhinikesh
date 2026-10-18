@@ -8,7 +8,7 @@
 
 <h3 align="center">🚀 Building AI-powered applications, computer vision systems & modern web apps</h3>
 
-🧠 About Me
+## 🧠 About Me
 
 <table>
 <tr>
