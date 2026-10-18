@@ -156,39 +156,70 @@ Sports-Guide app with features like Sports tutorial, Tips, Live Score, Buy Ticke
 ## 🧠 Skills
 
 **💻 Full-Stack Development**
-![MERN](https://img.shields.io/badge/MERN_Stack-378ADD?style=flat-square)
-![REST APIs](https://img.shields.io/badge/REST_APIs-378ADD?style=flat-square)
-![React+Vite](https://img.shields.io/badge/React_+_Vite-378ADD?style=flat-square)
-![JWT Auth](https://img.shields.io/badge/JWT_&_Google_OAuth-378ADD?style=flat-square)
 
-**📱 Mobile Development**
-![Flutter](https://img.shields.io/badge/Flutter-1D9E75?style=flat-square)
-![Kotlin](https://img.shields.io/badge/Kotlin-1D9E75?style=flat-square)
-![Android](https://img.shields.io/badge/Android_Studio-1D9E75?style=flat-square)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**🤖 AI & Automation**
-![OpenAI](https://img.shields.io/badge/OpenAI_API-7F77DD?style=flat-square)
-![Chatbots](https://img.shields.io/badge/AI_Chatbots-7F77DD?style=flat-square)
-![NLP](https://img.shields.io/badge/NLP_Integration-7F77DD?style=flat-square)
+**🐍 Python & Data Science**
 
-**🔌 IoT & Hardware**
-![RPi](https://img.shields.io/badge/Raspberry_Pi-EF9F27?style=flat-square)
-![Arduino](https://img.shields.io/badge/Arduino-EF9F27?style=flat-square)
-![IoT](https://img.shields.io/badge/IoT_Sensors-EF9F27?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
-**🔒 Cybersecurity — 4x CTF Winner**
-![CTF](https://img.shields.io/badge/4x_CTF_Winner-E24B4A?style=flat-square)
-![WebExploit](https://img.shields.io/badge/Web_Exploitation-E24B4A?style=flat-square)
-![RevEng](https://img.shields.io/badge/Reverse_Engineering-E24B4A?style=flat-square)
-![Crypto](https://img.shields.io/badge/Cryptography-E24B4A?style=flat-square)
+**🤖 AI, Machine Learning & Deep Learning**
+
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-7F77DD?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-7F77DD?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-7F77DD?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111F68?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-6E56CF?style=flat-square)
+![Vector Databases](https://img.shields.io/badge/Vector_Databases-6E56CF?style=flat-square)
+![MLOps](https://img.shields.io/badge/MLOps-6E56CF?style=flat-square)
+
+**☁️ Cloud, DevOps & CI/CD**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+**📱 Mobile Development & IoT**
+
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![IoT](https://img.shields.io/badge/Internet_of_Things-00979D?style=flat-square)
+
+**🧩 Computer Science Fundamentals**
+
+![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-444444?style=flat-square)
+![OOP](https://img.shields.io/badge/Object--Oriented_Programming-444444?style=flat-square)
+![Computer Networks](https://img.shields.io/badge/Computer_Networks-444444?style=flat-square)
+![Operating Systems](https://img.shields.io/badge/Operating_Systems-444444?style=flat-square)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+**🔒 Cybersecurity — 4× CTF Winner**
+
+![CTF](https://img.shields.io/badge/4%C3%97_CTF_Winner-E24B4A?style=flat-square)
+![Web Exploitation](https://img.shields.io/badge/Web_Exploitation-E24B4A?style=flat-square)
+![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-E24B4A?style=flat-square)
+![Cryptography](https://img.shields.io/badge/Cryptography-E24B4A?style=flat-square)
 ![OSINT](https://img.shields.io/badge/OSINT-E24B4A?style=flat-square)
 
-**⚙️ Tools & Platforms**
-![Git](https://img.shields.io/badge/Git_&_GitHub-888780?style=flat-square)
-![Linux](https://img.shields.io/badge/Linux-888780?style=flat-square)
-![Vercel](https://img.shields.io/badge/Vercel_&_Render-888780?style=flat-square)
-![Postman](https://img.shields.io/badge/Postman-888780?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-888780?style=flat-square)
+**🛠️ Development Tools**
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 
 ---
 
