@@ -1,24 +1,26 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#00DBDE;">Abhinikesh</span></h1>
+ <h1 align="center">Hi 👋, I'm <span style="color:#00DBDE;">Abhinikesh</span></h1>
+
 <!-- Typing Animation -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=00DBDE&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+%26+IoT+Builder;MERN+%26+Flutter+Developer;Open-Source+Contributor;Problem+Solver+%7C+Tech+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=00DBDE&center=true&vCenter=true&width=750&lines=AI%2FML+%26+Computer+Vision+Enthusiast;Python+Developer;Full-Stack+Developer;Building+Real-World+AI+Applications;IoT+%26+Industrial+Automation" alt="Typing Animation" />
 </p>
-<h3 align="center">🚀 Building scalable AI systems, android studio application & modern web apps</h3>
 
----
+<h3 align="center">🚀 Building AI-powered applications, computer vision systems & modern web apps</h3>
 
-## 🧠 About Me
+🧠 About Me
 
 <table>
 <tr>
 <td width="65%">
 
-- 🛸 Working on **AI-powered systems & full-stack apps**
-- 🌱 Learning **Next.js, Cloud, TensorFlow & System Design**
-- ⚙️ Building with **MERN + Kotlin + IoT**
-- 🧩 Strong interest in **AI, Cybersecurity & Automation**
-- 💬 Ask me about **JavaScript, Node.js, Python, IoT**
-- 📧 Email: abhinikeshkumar31@gmail.com
+- 🤖 Exploring **AI/ML & Computer Vision**
+- 🐍 Working with **Python, YOLOv8 & Object Detection**
+- 💻 Building applications with **React.js, JavaScript & MongoDB**
+- 🏭 Interested in **IoT, Industrial AI & Automation**
+- 🧩 Passionate about **Problem-Solving & Real-World Projects**
+- 💬 Ask me about **Python, JavaScript, React.js & Computer Vision**
+- 📧 Email: [**abhinikeshkumar31@gmail.com**](mailto:abhinikeshkumar31@gmail.com)
 
 </td>
 <td width="45%" align="center">
@@ -32,21 +34,22 @@
 
 ---
 
-## 🚀 Quick Highlights  
+## 🚀 Quick Highlights
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Projects-10+-00DBDE?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Tech%20Stack-MERN%20%7C%20Flutter%20%7C%20IoT-fc00ff?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Automation-00DBDE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-AI%2FML%20%26%20Computer%20Vision-00DBDE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Core%20Skills-Python%20%7C%20React%20%7C%20MongoDB-fc00ff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Interests-IoT%20%26%20Automation-00DBDE?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🏆 Achievements  
-- 🥈 **4× CTF Winner (Cybersecurity Competitions)**  
-- 🚀 Built **AI + IoT + Full Stack Projects**  
-- 🌍 Active **GitHub Contributor**  
-- 💡 Developed real-world systems solving campus problems  
+## 🏆 Achievements
+
+- 🥈 **4× CTF Winner (Cybersecurity Competitions)**
+- 🚀 Built **AI, Computer Vision & Full-Stack Projects**
+- 🌍 Active **GitHub Contributor**
+- 💡 Developed **practical solutions for real-world problems**
 
 ---
 
@@ -55,19 +58,19 @@
 <p align="center">
 
 <!-- 🌐 Frontend -->
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind" />
 
 <!-- ⚙️ Backend & Database -->
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 
-<!-- ☁️ Cloud & DevOps -->
-<img src="https://skillicons.dev/icons?i=vercel,docker,git,github,postman" />
+<!-- 🤖 AI, ML & Programming -->
+<img src="https://skillicons.dev/icons?i=python,tensorflow,c,cpp" />
 
-<!-- 📱 Mobile & Systems -->
-<img src="https://skillicons.dev/icons?i=flutter,kotlin,androidstudio,python,c,cpp" />
+<!-- 🛠️ Tools & DevOps -->
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux" />
 
-<!-- 🛠️ Tools & Hardware -->
-<img src="https://skillicons.dev/icons?i=vscode,linux,raspberrypi,arduino" />
+<!-- 📱 Mobile & IoT -->
+<img src="https://skillicons.dev/icons?i=flutter,kotlin,androidstudio,raspberrypi,arduino" />
 
 </p>
 
