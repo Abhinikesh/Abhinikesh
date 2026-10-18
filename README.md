@@ -192,12 +192,6 @@ Sports-Guide app with features like Sports tutorial, Tips, Live Score, Buy Ticke
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-**📱 Mobile Development & IoT**
-
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![IoT](https://img.shields.io/badge/Internet_of_Things-00979D?style=flat-square)
-
 **🧩 Computer Science Fundamentals**
 
 ![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-444444?style=flat-square)
